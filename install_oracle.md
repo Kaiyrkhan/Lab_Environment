@@ -2,7 +2,7 @@
 
 **Download VMware Desktop Hypervisor** https://drive.google.com/drive/folders/1xPeOKfdeOzGdEHJRhYktJThgL6-xjkHy?usp=sharing  
 
-**Download Oracle Linux** https://yum.oracle.com/oracle-linux-isos.html
+**Download Oracle Linux** https://yum.oracle.com/oracle-linux-isos.html  
 
 Table - **Minimum System Requirements**
 
@@ -11,3 +11,6 @@ Table - **Minimum System Requirements**
 | Memory    | 1 GB                |
 | Processor | 2 cores             |
 | Storage   | 20 GB               |
+
+```shell
+```
