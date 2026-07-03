@@ -13,11 +13,10 @@ Table - **Minimum System Requirements**
 | Storage   | 20 GB               |
 
 
-Shut Down Guest  
+**Shut Down Guest**  
 ![images](./images/vmware_shutdown.png)  
 
-**Hardware Device (RAM, CPU, Storage, NIC, Display)**
-
+**Hardware Device (RAM, CPU, Storage, NIC, Display)**  
 ![images](./images/openEuler_hardware_devices.png)  
 
 login: **student**  
