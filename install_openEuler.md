@@ -16,7 +16,7 @@ Table - **Minimum System Requirements**
 Shut Down Guest  
 ![images](./images/vmware_shutdown.png)  
 
-**Hardware Device (CPU, RAM, Storage, NIC)**
+**Hardware Device (RAM, CPU, Storage, NIC, Display)**
 
 ![images](./images/openEuler_hardware_devices.png)  
 
