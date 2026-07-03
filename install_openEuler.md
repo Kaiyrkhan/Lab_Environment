@@ -84,3 +84,68 @@ student@openEuler~$ history -c
 
 Shut Down Guest  
 ![images](./images/vmware_shutdown.png)
+
+**Description**  
+
+VMware Workstation -> Description  
+
+Username: student  
+Password: 123  
+
+Username: root  
+Password: P@s$w0rd  
+
+**10-қадам: I Copied It**
+
+`*.vmx` файлды ашып, төмендегі команданы енгіземіз!  
+```shell
+uuid.action = "create"
+```
+> C:\Users\student\Documents\Virtual Machines\openEuler-24.03-LTS-SP4  
+
+**11-қадам: Export to OVF**
+
+![images](./images/vmware_export_to_ovf.png)  
+
+Нәтижесінде төмендегідей 3 файл құрылады:  
+  1) `*.mf`   - Manifest File
+  2) `*.vmdk` - Virtual Machine Disk
+  3) `*.ovf`  - Open Virtualization Format
+
+**12-қадам: VMware OVF Tool арқылы OVA файл құру**
+
+Download OVF Tool https://developer.broadcom.com/tools/open-virtualization-format-ovf-tool/latest  
+
+Terminal (PowerShell) -> Run as administrator  
+```shell
+cd "C:\Program Files\VMware\VMware OVF Tool"
+.\ovftool.exe --version
+```
+
+```shell
+cd "$env:USERPROFILE\Documents\Virtual Machines\_OVF_files"
+```
+
+```shell
+dir
+```
+![images](./images/ubuntu_dir_ovf_files.png)
+
+OVF to OVA file
+```shell
+& "C:\Program Files\VMware\VMware OVF Tool\ovftool.exe" `
+"openEuler-24.03-LTS-SP4.ovf" `
+"openEuler-24.03-LTS-SP4.ova"
+```
+The manifest validates  
+Transfer Completed  
+Completed successfully  
+
+```shell
+dir
+```
+![images](./images/ubuntu_dir_ova_ovf_files.png)
+
+**13-қадам: Take Snapshot**  
+  
+Snapshot Manager -> Take Snapshot -> initial image  
