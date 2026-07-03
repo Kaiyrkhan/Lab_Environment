@@ -1,4 +1,4 @@
-# Lab_Environment
+# Lab Environment
 
   1) install Debian 13.x
   2) install Ubuntu Server 24.04.4 LTS
