@@ -16,6 +16,8 @@ Table - **Minimum System Requirements**
 Shut Down Guest  
 ![images](./images/vmware_shutdown.png)  
 
+**Hardware Device (CPU, RAM, Storage, NIC)**
+
 ![images](./images/openEuler_hardware_devices.png)  
 
 login: **student**  
