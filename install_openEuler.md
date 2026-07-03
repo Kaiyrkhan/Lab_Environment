@@ -82,5 +82,5 @@ student@openEuler~$ cat /dev/null > ~/.bash_history
 student@openEuler~$ history -c
 ```
 
-Restart Guest
+Shut Down Guest  
 ![images](./images/vmware_shutdown.png)
