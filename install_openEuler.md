@@ -35,13 +35,15 @@ Retype new password: P@s$w0rd
 ```
 
 ```shell
-student@openEuler~$ ping google.com -c2
+student@openEuler~$ ping -c2 google.com
 ```
 
 ```shell
 student@openEuler~$ sudo dnf clean all
 student@openEuler~$ sudo dnf makecache
+```
 
+```shell
 student@openEuler~$ sudo dnf update -y
 ```
 
@@ -62,11 +64,11 @@ student@openEuler~$ sudo vi /etc/issue
 Kernel \r
 
 ******************************************
-Username: omm
+Username: student
 Password: 123
 ******************************************
-ENTER
-ENTER
+Enter
+Enter
 
 :wq
 ```
@@ -80,5 +82,5 @@ student@openEuler~$ cat /dev/null > ~/.bash_history
 student@openEuler~$ history -c
 ```
 
-```shell
-```
+Restart Guest
+![images](./images/vmware_shutdown.png)
