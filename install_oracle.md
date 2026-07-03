@@ -1,4 +1,4 @@
-# How to install Oracle 7.9
+# How to install Oracle Linux 7.9
 
 **Download VMware Desktop Hypervisor** https://drive.google.com/drive/folders/1xPeOKfdeOzGdEHJRhYktJThgL6-xjkHy?usp=sharing  
 
