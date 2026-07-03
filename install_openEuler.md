@@ -14,7 +14,9 @@ Table - **Minimum System Requirements**
 
 
 Shut Down Guest  
-![images](./images/vmware_shutdown.png)
+![images](./images/vmware_shutdown.png)  
+
+![images](./images/openEuler_hardware_devices.png)  
 
 login: **student**  
 password: **Huawei@123**  
