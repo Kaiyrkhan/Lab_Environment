@@ -5,7 +5,6 @@
 **Download openEuler 24.03 LTS SP4** https://www.openeuler.org/en/download/#openEuler%2024.03%20LTS%20SP4  
 
 Table - **Minimum System Requirements**
-
 | Component | Minimum Requirement |
 |-----------|---------------------|
 | Memory    | 4 GB                |
