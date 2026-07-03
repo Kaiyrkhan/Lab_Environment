@@ -12,6 +12,16 @@ Table - **Minimum System Requirements**
 | Processor | 2 cores             |
 | Storage   | 20 GB               |
 
+![images](./images/openEuler_boot_menu.png)  
+![images](./images/openEuler_installation_process_language.png)  
+![images](./images/openEuler_installation_summary.png)  
+![images](./images/openEuler_timezone.png)  
+![images](./images/openEuler_storage.png)  
+![images](./images/openEuler_network_hostname.png)  
+![images](./images/openEuler_root_account.png)  
+![images](./images/openEuler_create_user.png)  
+![images](./images/openEuler_begin_installation.png)  
+![images](./images/openEuler_complate.png)  
 
 **Shut Down Guest**  
 ![images](./images/vmware_shutdown.png)  
