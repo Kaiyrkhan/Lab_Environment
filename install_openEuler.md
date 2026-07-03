@@ -148,4 +148,4 @@ dir
 
 **13-қадам: Take Snapshot**  
   
-Snapshot Manager -> Take Snapshot -> initial image  
+Snapshot Manager -> Take Snapshot -> Name: initial image  
