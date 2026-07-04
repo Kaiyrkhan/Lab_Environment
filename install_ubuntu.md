@@ -131,7 +131,7 @@ student@ubuntu:~$ history -c
 
 **8-қадам: Hardware Device (CPU, RAM, Storage, NIC)**
 
-![images](./images/vmware_hardware_devices.png)  
+![images](./images/ubuntu_hardware_devices.png)  
 
 **9-қадам: Description**  
 
