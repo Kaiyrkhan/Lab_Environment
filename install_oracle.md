@@ -4,13 +4,13 @@
 
 **Download Oracle Linux** https://yum.oracle.com/oracle-linux-isos.html  
 
-Table - **Minimum System Requirements**
+Table - **System Requirements**
 
-| Component | Minimum Requirement |
-|-----------|---------------------|
-| Memory    | 2 GB                |
-| Processor | 2 cores             |
-| Storage   | 20 GB               |
+| Component | Minimum Requirement | Recommended |
+|-----------|---------------------|-------------|
+| Memory    | 1 GB                | 2 GB        |
+| Processor | 1 cores             | 2 cores     |
+| Storage   | 10 GB               | 20 GB       |
 
 ```shell
 ```
