@@ -166,7 +166,7 @@ root@debian:~# cat /dev/null > ~/.bash_history
 root@debian:~# history -c
 ```
 
-**7-қадам: Hardware Device (CPU, RAM, Storage, NIC)**
+**7-қадам: Hardware Device (CPU, RAM, Storage, NIC, Display)**
 
 ![images](./images/vmware_hardware_devices.png)  
 
@@ -229,7 +229,7 @@ Completed successfully
 ```shell
 dir
 ```
-![images](./images/debian_dir_ova_ovf_files.png)
+![images](./images/debian_dir_ova_files.png)
 
 **12-қадам: Take Snapshot**  
   
