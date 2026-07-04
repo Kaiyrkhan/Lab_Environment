@@ -4,7 +4,7 @@
 
 **Download Debian Linux** https://www.debian.org/  
 
-Table - **Minimum System Requirements**
+Table - **System Requirements**
 
 | Component | Minimum Requirement | Recommended |
 |-----------|---------------------|-------------|
