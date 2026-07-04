@@ -49,6 +49,8 @@ Table - **Minimum System Requirements**
 login: **root**  
 password: **P@s$w0rd**  
 
+![images](./images/debian_login.png)  
+
 ```shell
 root@debian:~# usermod -aG sudo student
 root@debian:~# groups student
