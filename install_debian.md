@@ -8,7 +8,7 @@ Table - **System Requirements**
 
 | Component | Minimum Requirement | Recommended |
 |-----------|---------------------|-------------|
-| Memory    | 1 GB                | 2 GB        |
+| Memory    | 512 MB              | 2 GB        |
 | Processor | 1 core              | 2 cores     |
 | Storage   | 10 GB               | 20 GB       |
 
