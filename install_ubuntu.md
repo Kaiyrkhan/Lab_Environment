@@ -2,7 +2,7 @@
 
 **Download VMware Desktop Hypervisor** https://drive.google.com/drive/folders/1xPeOKfdeOzGdEHJRhYktJThgL6-xjkHy?usp=sharing  
 
-**Download Ubuntu Linux** https://ubuntu.com/download/server  
+**Download Ubuntu Server** https://ubuntu.com/download/server  
 
 Table - **Minimum System Requirements**
 
