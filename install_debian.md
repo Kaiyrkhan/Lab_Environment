@@ -6,11 +6,11 @@
 
 Table - **Minimum System Requirements**
 
-| Component | Minimum Requirement |
-|-----------|---------------------|
-| Memory    | 2 GB                |
-| Processor | 2 cores             |
-| Storage   | 20 GB               |
+| Component | Minimum Requirement | Recommended |
+|-----------|---------------------|-------------|
+| Memory    | 1 GB                | 2 GB        |
+| Processor | 1 core              | 2 cores     |
+| Storage   | 10 GB               | 20 GB       |
 
 
 ![images](./images/debian_installer_menu.png)  
