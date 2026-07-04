@@ -4,7 +4,7 @@
 
 **Download Ubuntu Server** https://ubuntu.com/download/server  
 
-Table - **Minimum System Requirements**
+Table - **System Requirements**
 
 | Component | Minimum Requirement |
 |-----------|---------------------|
