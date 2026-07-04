@@ -167,7 +167,7 @@ root@debian:~# history -c
 
 **7-қадам: Hardware Device (CPU, RAM, Storage, NIC, Display)**
 
-![images](./images/vmware_hardware_devices.png)  
+![images](./images/debian_hardware_devices.png)  
 
 **8-қадам: Description**  
 
