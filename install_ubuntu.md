@@ -13,6 +13,24 @@ Table - **System Requirements**
 | Storage   | 20 GB               |
 
 
+![images](./images/vmware_vm_config_type_custom.png)  
+![images](./images/vmware_create_blank_hard_disk.png)  
+![images](./images/vmware_guest_os_ubuntu.png)  
+![images](./images/vmware_vm_name_ubuntu.png)  
+![images](./images/vmware_cpu.png)  
+![images](./images/vmware_ram.png)  
+![images](./images/vmware_network_connection.png)  
+![images](./images/vmware_scsi_controller.png)  
+![images](./images/vmware_virtual_disk_type.png)  
+![images](./images/vmware_create_new_virtual_disk.png)  
+![images](./images/vmware_virtual_disk_size_ubuntu.png)  
+![images](./images/vmware_virtual_disk_file_name_ubuntu.png)  
+![images](./images/vmware_customize_hardware.png)  
+![images](./images/vmware_display.png)  
+![images](./images/vmware_network_adapter.png)  
+![images](./images/vmware_cdrom_ubuntu.png)  
+![images](./images/vmware_cpu_virtualization_engine.png)  
+
 **Shut Down Guest**  
 ![images](./images/vmware_shutdown_vm.png)  
 
