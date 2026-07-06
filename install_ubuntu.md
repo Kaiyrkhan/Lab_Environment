@@ -31,6 +31,24 @@ Table - **System Requirements**
 ![images](./images/vmware_cdrom_ubuntu.png)  
 ![images](./images/vmware_cpu_virtualization_engine.png)  
 
+![images](./images/ubuntu_installation_process_language.png)  
+![images](./images/ubuntu_without_updating.png)  
+![images](./images/ubuntu_keyboard_configuration.png)  
+![images](./images/ubuntu_installation_type.png)  
+![images](./images/ubuntu_network_configuration.png)  
+![images](./images/ubuntu_proxy_configuration.png)  
+![images](./images/ubuntu_archive_mirror_configuration.png)  
+![images](./images/ubuntu_storage_configuration.png)  
+![images](./images/ubuntu_storage_editing_lv.png)  
+![images](./images/ubuntu_storage_edited_lv.png)  
+![images](./images/ubuntu_continue.png)  
+![images](./images/ubuntu_profile_configuration.png)  
+![images](./images/ubuntu_skip.png)  
+![images](./images/ubuntu_openssh_configuration.png)  
+![images](./images/ubuntu_feature.png)  
+![images](./images/ubuntu_installation_complete.png)  
+![images](./images/ubuntu_click_enter.png)  
+
 **Shut Down Guest**  
 ![images](./images/vmware_shutdown_vm.png)  
 
