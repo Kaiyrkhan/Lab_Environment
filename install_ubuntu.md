@@ -13,6 +13,12 @@ Table - **System Requirements**
 | Storage   | 20 GB               |
 
 
+**Shut Down Guest**  
+![images](./images/vmware_shutdown_vm.png)  
+
+**Hardware Device (RAM, CPU, Storage, NIC, Display)**  
+![images](./images/ubuntu_hardware_devices.png)  
+
 **1-қадам: Set the Root Password**
 
 login: **student**  
