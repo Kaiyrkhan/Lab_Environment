@@ -24,7 +24,7 @@ Table - **System Requirements**
 ![images](./images/openEuler_complate.png)  
 
 **Shut Down Guest**  
-![images](./images/vmware_shutdown.png)  
+![images](./images/vmware_shutdown_vm.png)  
 
 **Hardware Device (RAM, CPU, Storage, NIC, Display)**  
 ![images](./images/openEuler_hardware_devices.png)  
@@ -100,7 +100,7 @@ student@openEuler~$ history -c
 ```
 
 Shut Down Guest  
-![images](./images/vmware_shutdown.png)
+![images](./images/vmware_shutdown_vm.png)
 
 **Description**  
 
