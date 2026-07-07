@@ -4,6 +4,8 @@
 
 **Download Debian Linux** https://www.debian.org/  
 
+**Debian ISO archive** https://cdimage.debian.org/cdimage/archive/  
+
 Table - **System Requirements**
 
 | Component | Minimum Requirement | Recommended |
