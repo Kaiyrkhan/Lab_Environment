@@ -186,12 +186,12 @@ Username: root
 Password: P@s$w0rd  
 
 **10-қадам: I Copied It**
+> C:\Users\student\Documents\Virtual Machines\ubuntu-24.04.4-LTS\  
 
 `*.vmx` файлды ашып, төмендегі команданы енгіземіз!  
 ```shell
 uuid.action = "create"
 ```
-> C:\Users\student\Documents\Virtual Machines\ubuntu-24.04.4-LTS\  
 
 **11-қадам: Export to OVF**
 
