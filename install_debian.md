@@ -64,8 +64,10 @@ Table - **System Requirements**
 ![images](./images/debian_install_grub_device.png)  
 ![images](./images/debian_installation_complete.png)  
 
-**7-қадам: Hardware Device (CPU, RAM, Storage, NIC, Display)**
+**Shut Down Guest**  
+![images](./images/vmware_shutdown_vm.png)  
 
+**Hardware Device (RAM, CPU, Storage, NIC, Display)**  
 ![images](./images/debian_hardware_devices.png)  
 
 **1-қадам: Add a User to the Sudo Group**
