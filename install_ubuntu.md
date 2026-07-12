@@ -94,9 +94,7 @@ student@ubuntu:~$ sudo systemctl status ssh
 student@ubuntu:~$ ip address
 ```
 
-**5-қадам: Banner Messages**
-
-**Configure Console Login Banner**
+**5-қадам: Configure Console Login Banner Message**
 
 ```shell
 student@ubuntu:~$ sudo nano /etc/issue
@@ -119,29 +117,6 @@ CTRL+L
 
 ```shell
 student@ubuntu:~$ logout
-```
-
-**Configure Remote Login Banner**
-
-```shell
-student@ubuntu:~$ sudo nano /etc/issue.net
-
-************************************
-Authorized access only!
-Unauthorized access is prohibited.
-************************************
-ENTER
-ENTER
-
-CTRL+O, ENTER, CTRL+X
-CTRL+L
-```
-
-```shell
-student@ubuntu:~$ sudo nano /etc/ssh/sshd_config
-Banner /etc/issue.net
-
-student@ubuntu:~$ sudo systemctl restart ssh
 ```
 
 **6-қадам: optional: true**
@@ -171,11 +146,7 @@ student@ubuntu:~$ cat /dev/null > ~/.bash_history
 student@ubuntu:~$ history -c
 ```
 
-**8-қадам: Hardware Device (CPU, RAM, Storage, NIC)**
-
-![images](./images/ubuntu_hardware_devices.png)  
-
-**9-қадам: Description**  
+**8-қадам: Description**  
 
 VMware Workstation -> Description  
 
@@ -185,7 +156,7 @@ Password: 123
 Username: root  
 Password: P@s$w0rd  
 
-**10-қадам: I Copied It**
+**9-қадам: I Copied It**
 
 > C:\Users\student\Documents\Virtual Machines\ubuntu-24.04.4-LTS\  
 
@@ -194,7 +165,7 @@ Password: P@s$w0rd
 uuid.action = "create"
 ```
 
-**11-қадам: Export to OVF**
+**10-қадам: Export to OVF**
 
 ![images](./images/vmware_export_to_ovf.png)  
 
@@ -203,7 +174,7 @@ uuid.action = "create"
   2) `*.vmdk` - Virtual Machine Disk
   3) `*.ovf`  - Open Virtualization Format
 
-**12-қадам: VMware OVF Tool арқылы OVA файл құру**
+**11-қадам: VMware OVF Tool арқылы OVA файл құру**
 
 Download OVF Tool https://developer.broadcom.com/tools/open-virtualization-format-ovf-tool/latest  
 
@@ -237,6 +208,6 @@ dir
 ```
 ![images](./images/ubuntu_dir_ova_files.png)
 
-**13-қадам: Take Snapshot**  
+**12-қадам: Take Snapshot**  
   
 Snapshot Manager -> Take Snapshot -> Name: initial image  
