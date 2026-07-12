@@ -160,7 +160,7 @@ root@debian:~# cat /dev/null > ~/.bash_history
 root@debian:~# history -c
 ```
 
-**8-қадам: Description**  
+**7-қадам: Description**  
 
 VMware Workstation -> Description  
 
@@ -170,15 +170,15 @@ Password: 123
 Username: root  
 Password: P@s$w0rd  
 
-**9-қадам: I Copied It**
+**8-қадам: I Copied It**
 
 `*.vmx` файлды ашып, төмендегі команданы енгіземіз!  
 ```shell
 uuid.action = "create"
 ```
-> C:\Users\student\Documents\Virtual Machines\debian-13.5\  
+> C:\Users\student\Documents\Virtual Machines\debian-13.6\  
 
-**10-қадам: Export to OVF**
+**9-қадам: Export to OVF**
 
 ![images](./images/vmware_export_to_ovf.png)  
 
@@ -187,7 +187,7 @@ uuid.action = "create"
   2) `*.vmdk` - Virtual Machine Disk
   3) `*.ovf`  - Open Virtualization Format
 
-**11-қадам: VMware OVF Tool арқылы OVA файл құру**
+**10-қадам: VMware OVF Tool арқылы OVA файл құру**
 
 Download OVF Tool https://developer.broadcom.com/tools/open-virtualization-format-ovf-tool/latest  
 
@@ -209,8 +209,8 @@ dir
 OVF to OVA file
 ```shell
 & "C:\Program Files\VMware\VMware OVF Tool\ovftool.exe" `
-"debian-13.5.ovf" `
-"debian-13.5.ova"
+"debian-13.6.ovf" `
+"debian-13.6.ova"
 ```
 The manifest validates  
 Transfer Completed  
@@ -221,7 +221,7 @@ dir
 ```
 ![images](./images/debian_dir_ova_files.png)
 
-**12-қадам: Take Snapshot**  
+**11-қадам: Take Snapshot**  
   
 Snapshot Manager -> Take Snapshot -> Name: initial image  
 
