@@ -64,6 +64,10 @@ Table - **System Requirements**
 ![images](./images/debian_install_grub_device.png)  
 ![images](./images/debian_installation_complete.png)  
 
+**7-қадам: Hardware Device (CPU, RAM, Storage, NIC, Display)**
+
+![images](./images/debian_hardware_devices.png)  
+
 **1-қадам: Add a User to the Sudo Group**
 
 login: **root**  
@@ -153,10 +157,6 @@ root@debian:~# ls -la
 root@debian:~# cat /dev/null > ~/.bash_history
 root@debian:~# history -c
 ```
-
-**7-қадам: Hardware Device (CPU, RAM, Storage, NIC, Display)**
-
-![images](./images/debian_hardware_devices.png)  
 
 **8-қадам: Description**  
 
