@@ -15,6 +15,24 @@ Table - **System Requirements**
 | Storage   | 10 GB               | 20 GB       |
 
 
+![images](./images/vmware_config_type_custom.png)  
+![images](./images/vmware_create_blank_hard_disk.png)  
+![images](./images/vmware_guest_os_debian.png)  
+![images](./images/vmware_vm_name_debian.png)  
+![images](./images/vmware_processor_cores.png)  
+![images](./images/vmware_memory_size.png)  
+![images](./images/vmware_network_connection.png)  
+![images](./images/vmware_scsi_controller.png)  
+![images](./images/vmware_virtual_disk_type.png)  
+![images](./images/vmware_create_new_virtual_disk.png)  
+![images](./images/vmware_virtual_disk_size_debian.png)  
+![images](./images/vmware_virtual_disk_file_name_debian.png)  
+![images](./images/vmware_customize_hardware_debian.png)  
+![images](./images/vmware_processor_virtualization_engine.png)  
+![images](./images/vmware_cdrom_debian.png)  
+![images](./images/vmware_network_adapter.png)  
+![images](./images/vmware_display.png)  
+
 ![images](./images/debian_installer_menu.png)  
 ![images](./images/debian_installation_process_language.png)  
 ![images](./images/debian_select_location_country_other.png)  
