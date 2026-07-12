@@ -105,9 +105,7 @@ student@debian:~$ sudo systemctl status ssh
 student@debian:~$ ip address
 ```
 
-**5-қадам: Banner Messages**
-
-**Configure Console Login Banner**
+**5-қадам: Configure Console Login Banner Message**
 
 ```shell
 student@debian:~$ sudo nano /etc/issue
@@ -130,35 +128,6 @@ CTRL+L
 
 ```shell
 student@debian:~$ logout
-```
-
-**Configure Remote Login Banner**
-
-```shell
-student@debian:~$ sudo nano /etc/issue.net
-
-************************************
-Authorized access only!
-Unauthorized access is prohibited.
-************************************
-ENTER
-ENTER
-
-CTRL+O, ENTER, CTRL+X
-CTRL+L
-```
-
-```shell
-student@debian:~$ sudo nano /etc/ssh/sshd_config
-Banner /etc/issue.net
-
-student@debian:~$ sudo systemctl restart ssh
-```
-
-**MOTD (Message of the Day)**
-
-```shell
-student@debian:~$ sudo nano /etc/motd
 ```
 
 **6-қадам: Clear Bash History**
