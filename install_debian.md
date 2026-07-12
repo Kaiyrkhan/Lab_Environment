@@ -172,11 +172,12 @@ Password: P@s$w0rd
 
 **8-қадам: I Copied It**
 
+> C:\Users\student\Documents\Virtual Machines\debian-13.6\  
+
 `*.vmx` файлды ашып, төмендегі команданы енгіземіз!  
 ```shell
 uuid.action = "create"
 ```
-> C:\Users\student\Documents\Virtual Machines\debian-13.6\  
 
 **9-қадам: Export to OVF**
 
