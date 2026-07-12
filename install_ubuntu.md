@@ -146,6 +146,9 @@ student@ubuntu:~$ cat /dev/null > ~/.bash_history
 student@ubuntu:~$ history -c
 ```
 
+**Shut Down Guest**  
+![images](./images/vmware_shutdown_vm.png)  
+
 **8-қадам: Description**  
 
 VMware Workstation -> Description  
