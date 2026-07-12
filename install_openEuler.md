@@ -114,11 +114,12 @@ Password: P@s$w0rd
 
 **10-қадам: I Copied It**
 
+> C:\Users\student\Documents\Virtual Machines\openEuler-24.03-LTS-SP4  
+
 `*.vmx` файлды ашып, төмендегі команданы енгіземіз!  
 ```shell
 uuid.action = "create"
 ```
-> C:\Users\student\Documents\Virtual Machines\openEuler-24.03-LTS-SP4  
 
 **11-қадам: Export to OVF**
 
