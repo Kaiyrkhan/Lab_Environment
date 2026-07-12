@@ -149,6 +149,9 @@ student@debian:~$ cat /dev/null > ~/.bash_history
 student@debian:~$ history -c
 ```
 
+**Restart Guest**  
+![images](./images/vmware_shutdown_vm.png)  
+
 login: **root**  
 password: **P@s$w0rd**  
 
@@ -159,6 +162,9 @@ root@debian:~# ls -la
 root@debian:~# cat /dev/null > ~/.bash_history
 root@debian:~# history -c
 ```
+
+**Shut Down Guest**  
+![images](./images/vmware_shutdown_vm.png)  
 
 **7-қадам: Description**  
 
