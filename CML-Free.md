@@ -8,6 +8,38 @@
 | Reference Platform ISO (refplat ISO) | refplat-20260409-free-iso.zip |
 
 
+![images](./images/CML_vmware_memory_size.png)  
+![images](./images/CML_vmware_processor_cores.png)  
+![images](./images/CML_vmware_expand_disk_capacity.png)  
+![images](./images/CML_vmware_expand_disk_capacity_value.png)  
+![images](./images/CML_vmware_expand_disk_capacity_successfully.png)  
+![images](./images/CML_vmware_cdrom_use_iso_image_file.png)  
+![images](./images/CML_vmware_network_adapter_vmnet1.png)  
+![images](./images/CML_vmware_display.png)  
+![images](./images/CML_vmware_network_adapter_vmnet0.png)  
+![images](./images/CML_deployment_configuration.png)  
+![images](./images/CML_accept_eula.png)  
+![images](./images/CML_brief_help.png)  
+![images](./images/CML_deployment_type_standalone.png)  
+![images](./images/CML_hostname.png)  
+![images](./images/CML_username_password_sysadmin.png)  
+![images](./images/CML_password_not_strong.png)  
+![images](./images/CML_username_password_admin.png)  
+![images](./images/CML_network_configuration_dhcp.png)  
+![images](./images/CML_select_service_openssh.png)  
+![images](./images/CML_confirm_configuration.png)  
+![images](./images/CML_after_this_is_done.png)  
+![images](./images/CML_copying_images_from_iso.png)  
+![images](./images/CML_configuration_process.png)  
+![images](./images/CML_console.png)  
+![images](./images/CML_browser_cockpit_advanced.png)  
+![images](./images/CML_browser_cockpit_advanced_risky.png)  
+![images](./images/CML_browser_cockpit_web_ui.png)  
+![images](./images/CML_browser_advanced.png)  
+![images](./images/CML_browser_advanced_risky.png)  
+![images](./images/CML_browser_web_ui.png)  
+![images](./images/CML_vmware_cdrom_use_physical_drive.png)  
+![images](./images/CML_vmware_devices_description.png)  
 
 **7-қадам: Description**  
 
