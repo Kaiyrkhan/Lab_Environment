@@ -52,14 +52,11 @@
 ![images](./images/CML_vmware_cdrom_use_physical_drive.png)  
 ![images](./images/CML_vmware_devices.png)  
 
-**Browser -> https://192.168.128.132:9090**  
-![images](./images/CML_browser_cockpit_advanced_risky.png)  
+**Browser -> https://ip_address:9090**  
 ![images](./images/CML_browser_cockpit_web_ui.png)  
 
-**Browser -> https://192.168.128.132**  
-![images](./images/CML_browser_advanced_risky.png)  
+**Browser -> https://ip_address**  
 ![images](./images/CML_browser_web_ui.png)  
-
 
 **7-қадам: Description**  
 
