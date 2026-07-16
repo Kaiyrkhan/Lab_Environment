@@ -52,10 +52,10 @@
 ![images](./images/CML_vmware_cdrom_use_physical_drive.png)  
 ![images](./images/CML_vmware_devices.png)  
 
-**Browser -> https://ip_address:9090**  
+**Browser -> https://ip_address:9090 -> Advanced -> Proceed to Risky**  
 ![images](./images/CML_browser_cockpit_web_ui.png)  
 
-**Browser -> https://ip_address**  
+**Browser -> https://ip_address -> Advanced -> Proceed to Risky**  
 ![images](./images/CML_browser_web_ui.png)  
 
 **7-қадам: Description**  
