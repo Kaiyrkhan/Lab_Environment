@@ -14,15 +14,11 @@
 VMware Workstation -> Description  
 
 CML Application User Account (CML Web UI)
-
 https://ip_address
 Username: admin
 Password: P@s$w0rd
 
-------------------------------------------
-
 CML System Administrator Account (Cockpit)
-
 https://ip_address:9090
 Username: sysadmin
 Password: P@s$w0rd
