@@ -18,8 +18,10 @@
 Төмендегі суретте көрсетілгендей, **refplat-20260409-free.iso** файлды таңдау
 ![images](./images/CML_vmware_cdrom_use_iso_image_file.png)  
 ![images](./images/CML_vmware_network_adapter_vmnet1.png)  
-![images](./images/CML_vmware_display.png)  
+немесе
 ![images](./images/CML_vmware_network_adapter_vmnet0.png)  
+![images](./images/CML_vmware_display.png)  
+![images](./images/CML_vmware_power_vm.png)  
 ![images](./images/CML_deployment_configuration.png)  
 ![images](./images/CML_accept_eula.png)  
 ![images](./images/CML_brief_help.png)  
