@@ -52,11 +52,8 @@
 ![images](./images/CML_vmware_cdrom_use_physical_drive.png)  
 ![images](./images/CML_vmware_devices.png)  
 
-
-![images](./images/CML_browser_cockpit_advanced.png)  
 ![images](./images/CML_browser_cockpit_advanced_risky.png)  
 ![images](./images/CML_browser_cockpit_web_ui.png)  
-![images](./images/CML_browser_advanced.png)  
 ![images](./images/CML_browser_advanced_risky.png)  
 ![images](./images/CML_browser_web_ui.png)  
 
