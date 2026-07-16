@@ -38,10 +38,10 @@
 ![images](./images/CML_network_configuration_dhcp.png)  
 ![images](./images/CML_select_service_openssh.png)  
 ![images](./images/CML_confirm_configuration.png)  
-
-**Ескерту:** Төмендегі терезе өзі автомат жабылады, **"OK"** батырмасын басуға болмайды!  
 ![images](./images/CML_after_this_is_done.png)  
 ![images](./images/CML_copying_images_from_iso.png)  
+
+**Ескерту:** Төмендегі терезе өзі автомат жабылады, **"OK"** батырмасын басуға болмайды!  
 ![images](./images/CML_configuration_process.png)  
 ![images](./images/CML_console.png)  
 ![images](./images/CML_browser_cockpit_advanced.png)  
