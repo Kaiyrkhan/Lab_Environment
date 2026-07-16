@@ -8,7 +8,6 @@
 | Reference Platform ISO (refplat ISO) | refplat-20260409-free-iso.zip |
 
 ![images](./images/CML_vmware_file_open.png)  
-![images](./images/CML_vmware_select_ova_file.png)  
 ![images](./images/CML_vmware_new_vm_name.png)  
 ![images](./images/CML_vmware_memory_size.png)  
 ![images](./images/CML_vmware_processor_cores.png)  
