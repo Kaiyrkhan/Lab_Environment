@@ -48,7 +48,7 @@
 **Shut Down Guest**  
 ![images](./images/vmware_shutdown_vm.png)  
 
-**CDROM -> Use physical drive** және құсбелгіні **"[] Connect at power on"** алып тастау  
+**CDROM -> "Use physical drive"** таңдау және құсбелгіні **"[ ] Connect at power on"** алып тастау  
 ![images](./images/CML_vmware_cdrom_use_physical_drive.png)  
 ![images](./images/CML_vmware_devices_description.png)  
 
