@@ -15,6 +15,7 @@
 ![images](./images/CML_vmware_expand_disk_capacity.png)  
 ![images](./images/CML_vmware_expand_disk_capacity_value.png)  
 ![images](./images/CML_vmware_expand_disk_capacity_successfully.png)  
+refplat-20260409-free.iso файлды таңдау
 ![images](./images/CML_vmware_cdrom_use_iso_image_file.png)  
 ![images](./images/CML_vmware_network_adapter_vmnet1.png)  
 ![images](./images/CML_vmware_display.png)  
