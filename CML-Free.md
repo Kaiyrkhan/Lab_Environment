@@ -32,8 +32,14 @@
 ![images](./images/CML_brief_help.png)  
 ![images](./images/CML_deployment_type_standalone.png)  
 ![images](./images/CML_hostname.png)  
+
+Username: sysadmin  
+Password: P@s$w0rd  
 ![images](./images/CML_username_password_sysadmin.png)  
 ![images](./images/CML_password_not_strong.png)  
+
+Username: admin  
+Password: P@s$w0rd  
 ![images](./images/CML_username_password_admin.png)  
 ![images](./images/CML_password_not_strong.png)  
 ![images](./images/CML_network_configuration_dhcp.png)  
@@ -53,8 +59,22 @@
 ![images](./images/CML_vmware_cdrom_use_physical_drive.png)  
 ![images](./images/CML_vmware_devices.png)  
 
+```shell
+CML System Administrator Account (Cockpit)
+https://ip_address:9090
+Username: sysadmin
+Password: P@s$w0rd
+```
+
 **Browser -> https://ip_address:9090 -> Advanced -> Proceed to Risky**  
 ![images](./images/CML_browser_cockpit_web_ui.png)  
+
+```shell
+CML Application User Account (CML Web UI)
+https://ip_address
+Username: admin
+Password: P@s$w0rd
+```
 
 **Browser -> https://ip_address -> Advanced -> Proceed to Risky**  
 ![images](./images/CML_browser_web_ui.png)  
