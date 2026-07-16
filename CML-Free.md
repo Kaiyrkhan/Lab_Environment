@@ -58,6 +58,9 @@
 **Browser -> https://ip_address -> Advanced -> Proceed to Risky**  
 ![images](./images/CML_browser_web_ui.png)  
 
+CML Web UI -> Dashboard -> Add Lab
+![images](./images/CML_workbench.png)  
+
 **7-қадам: Description**  
 
 VMware Workstation -> Description  
