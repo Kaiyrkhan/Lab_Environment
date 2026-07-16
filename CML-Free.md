@@ -17,7 +17,7 @@
 ![images](./images/CML_vmware_expand_disk_capacity_value.png)  
 ![images](./images/CML_vmware_expand_disk_capacity_successfully.png)  
 
-Төмендегі суретте көрсетілгендей, **"refplat-20260409-free.iso"** файлды таңдау және құсбелгімен **"[x] Connect at power on"** белгілеу  
+Төмендегі суретте көрсетілгендей, **"refplat-20260409-free.iso"** файлды таңдау және құсбелгіні **"[x] Connect at power on"** белгілеу  
 ![images](./images/CML_vmware_cdrom_use_iso_image_file.png)  
 ![images](./images/CML_vmware_network_adapter_vmnet1.png)  
 ![images](./images/CML_vmware_display.png)  
