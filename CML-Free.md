@@ -25,8 +25,8 @@
 ![images](./images/CML_vmware_power_vm.png)  
 
 ![images](./images/CML_initial_system_configuration.png)  
-![images](./images/CML_deployment_configuration.png)  
 ![images](./images/CML_accept_eula.png)  
+![images](./images/CML_deployment_configuration.png)  
 ![images](./images/CML_brief_help.png)  
 ![images](./images/CML_deployment_type_standalone.png)  
 ![images](./images/CML_hostname.png)  
