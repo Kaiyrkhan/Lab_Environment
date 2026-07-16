@@ -14,12 +14,12 @@
 ![images](./images/CML_vmware_expand_disk_capacity.png)  
 ![images](./images/CML_vmware_expand_disk_capacity_value.png)  
 ![images](./images/CML_vmware_expand_disk_capacity_successfully.png)  
-Төмендегі суретте көрсетілгендей, **refplat-20260409-free.iso** файлды таңдау
+Төмендегі суретте көрсетілгендей, **refplat-20260409-free.iso** файлды таңдау  
 ![images](./images/CML_vmware_cdrom_use_iso_image_file.png)  
 ![images](./images/CML_vmware_network_adapter_vmnet1.png)  
-немесе  
 ![images](./images/CML_vmware_network_adapter_vmnet0.png)  
 ![images](./images/CML_vmware_display.png)  
+**Power on this virtual machine** батырмасын басу  
 ![images](./images/CML_vmware_power_vm.png)  
 ![images](./images/CML_deployment_configuration.png)  
 ![images](./images/CML_accept_eula.png)  
