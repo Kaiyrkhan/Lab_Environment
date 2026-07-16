@@ -1,5 +1,7 @@
 # How to install Cisco Modeling Labs (CML) Free
 
+**1-қадам: Download and install**
+
 **Download CML-Free** https://software.cisco.com/download/home/286193282/type/286326381/release/CML-Free  
 
 | File Information                     | File Name                     |
@@ -21,7 +23,7 @@
 ![images](./images/CML_vmware_network_adapter_vmnet0.png)  
 ![images](./images/CML_vmware_display.png)  
 
-**Power on this virtual machine** батырмасын басу  
+**"Power on this virtual machine"** батырмасын басу  
 ![images](./images/CML_vmware_power_vm.png)  
 
 ![images](./images/CML_boot_menu.png)  
@@ -61,7 +63,7 @@
 **CML Web UI -> Dashboard -> Add Lab**  
 ![images](./images/CML_workbench.png)  
 
-**7-қадам: Description**  
+**2-қадам: Description**  
 
 VMware Workstation -> Description  
 
@@ -79,7 +81,7 @@ Username: sysadmin
 Password: P@s$w0rd
 ```
 
-**8-қадам: I Copied It**
+**3-қадам: I Copied It**
 
 > C:\Users\student\Documents\Virtual Machines\CMLv2-2.10.0-Free  
 
@@ -88,7 +90,7 @@ Password: P@s$w0rd
 uuid.action = "create"
 ```
 
-**9-қадам: Export to OVF**
+**4-қадам: Export to OVF**
 
 ![images](./images/vmware_export_to_ovf.png)  
 
@@ -97,7 +99,7 @@ uuid.action = "create"
   2) `*.vmdk` - Virtual Machine Disk
   3) `*.ovf`  - Open Virtualization Format
 
-**10-қадам: VMware OVF Tool арқылы OVA файл құру**
+**5-қадам: VMware OVF Tool арқылы OVA файл құру**
 
 Download OVF Tool https://developer.broadcom.com/tools/open-virtualization-format-ovf-tool/latest  
 
