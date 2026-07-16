@@ -41,7 +41,7 @@
 ![images](./images/CML_after_this_is_done.png)  
 ![images](./images/CML_copying_images_from_iso.png)  
 
-**Ескерту:** Төмендегі терезе өзі автомат жабылады, **"OK"** батырмасын басуға болмайды!  
+**Ескерту:** Төмендегі терезе өзі автоматты түрде жабылады, **"OK"** батырмасын басуға болмайды!  
 ![images](./images/CML_configuration_process.png)  
 ![images](./images/CML_console.png)  
 ![images](./images/CML_browser_cockpit_advanced.png)  
