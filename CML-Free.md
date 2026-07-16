@@ -44,14 +44,22 @@
 **Ескерту:** Төмендегі терезе өзі автоматты түрде жабылады, **"OK"** батырмасын басуға болмайды!  
 ![images](./images/CML_configuration_process.png)  
 ![images](./images/CML_console.png)  
+
+**Shut Down Guest**  
+![images](./images/vmware_shutdown_vm.png)  
+
+**Hardware Device (RAM, CPU, Storage, NIC, Display)**  
+![images](./images/CML_vmware_cdrom_use_physical_drive.png)  
+![images](./images/CML_vmware_devices_description.png)  
+
+
 ![images](./images/CML_browser_cockpit_advanced.png)  
 ![images](./images/CML_browser_cockpit_advanced_risky.png)  
 ![images](./images/CML_browser_cockpit_web_ui.png)  
 ![images](./images/CML_browser_advanced.png)  
 ![images](./images/CML_browser_advanced_risky.png)  
 ![images](./images/CML_browser_web_ui.png)  
-![images](./images/CML_vmware_cdrom_use_physical_drive.png)  
-![images](./images/CML_vmware_devices_description.png)  
+
 
 **7-қадам: Description**  
 
