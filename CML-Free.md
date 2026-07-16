@@ -34,6 +34,7 @@
 ![images](./images/CML_username_password_sysadmin.png)  
 ![images](./images/CML_password_not_strong.png)  
 ![images](./images/CML_username_password_admin.png)  
+![images](./images/CML_password_not_strong.png)  
 ![images](./images/CML_network_configuration_dhcp.png)  
 ![images](./images/CML_select_service_openssh.png)  
 ![images](./images/CML_confirm_configuration.png)  
