@@ -4,6 +4,7 @@
 
 VMware Workstation -> Description  
 
+```shell
 --- Cisco IOS ---
 
 Router, Switch, Firewall
@@ -28,3 +29,4 @@ New Password: Huawei@123
 Username: admin
 Password: Admin@123
 New Password: Huawei@123
+```
