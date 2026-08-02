@@ -5,20 +5,22 @@
 VMware Workstation -> Description  
 
 ```shell
---- Cisco IOS ---
+Linux Distro: Debian, Kali Linux
 
-Router, Switch, Firewall
+# Kali Linux
+Username: kali
+Password: kali
 
---- Fortinet ---
+Cisco IOS: Router, Switch, Firewall
+
+Fortinet: FortiGate
 
 # FortiGate
 Login: admin
 Password: Enter
 New Password: Fortinet@123
 
---- Huawei VRP ---
-
-Router, Switch, Firewall
+Huawei VRP: Router, Switch, Firewall
 
 # Huawei Router AR 1000
 Username: super
