@@ -7,7 +7,7 @@
 VMware Workstation -> Description  
 
 ```shell
-Linux Distro: Debian, Ubuntu, Rocky, oracle, openEuler, Kali Linux
+Linux Distro: Debian, Ubuntu, Rocky, Oracle, openEuler, Kali Linux
 
 # Kali Linux
 Username: kali
