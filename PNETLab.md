@@ -1,5 +1,7 @@
 # PNETLab - Network Emulation Platform
 
+...
+
 **7-қадам: Description**  
 
 VMware Workstation -> Description  
