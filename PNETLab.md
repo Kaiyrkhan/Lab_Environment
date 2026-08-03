@@ -35,7 +35,7 @@ New Password: Huawei@123
 
 **8-қадам: I Copied It**
 
-> C:\Users\student\Documents\Virtual Machines\debian-13.6\  
+> C:\Users\student\Documents\Virtual Machines\PNETLab\  
 
 `*.vmx` файлды ашып, төмендегі команданы енгіземіз!  
 ```shell
